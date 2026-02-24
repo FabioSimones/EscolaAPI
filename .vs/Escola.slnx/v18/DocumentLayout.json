@@ -1,36 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleDeGastosSemIA\\Escola\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controledegastossemia\\escola\\escola.api\\escola.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\escola.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Escola.API",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleDeGastosSemIA\\Escola\\Escola.API\\Escola.API.csproj",
-              "RelativeDocumentMoniker": "Escola.API\\Escola.API.csproj",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleDeGastosSemIA\\Escola\\Escola.API\\Escola.API.csproj",
-              "RelativeToolTip": "Escola.API\\Escola.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-23T19:58:03.879Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

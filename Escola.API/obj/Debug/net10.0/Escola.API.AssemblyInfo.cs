@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Escola.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e17309f08ff6e417ced510c79838cb79a566196")]
 [assembly: System.Reflection.AssemblyProductAttribute("Escola.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Escola.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

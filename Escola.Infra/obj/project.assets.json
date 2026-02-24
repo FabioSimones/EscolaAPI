@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Escola.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Escola.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Escola.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Escola.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Escola.Domain/Escola.Domain.csproj",
+      "msbuildProject": "../Escola.Domain/Escola.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Escola.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\fsimones\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleDeGastosSemIA\\Escola\\Escola.Infra\\Escola.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Infra\\Escola.Infra.Data.csproj",
       "projectName": "Escola.Infra.Data",
-      "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleDeGastosSemIA\\Escola\\Escola.Infra\\Escola.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Infra\\Escola.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\fsimones\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleDeGastosSemIA\\Escola\\Escola.Infra\\obj\\",
+      "outputPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -42,7 +61,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Domain\\Escola.Domain.csproj": {
+              "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Domain\\Escola.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
