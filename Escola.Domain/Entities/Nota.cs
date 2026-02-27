@@ -6,6 +6,7 @@
         public int MatriculaId { get; set; }
         public decimal ValorNota { get; set; }
         public bool Aprovado { get; set; }
+        public bool Excluido { get; set; }
 
         public Matricula Matricula { get; set; }
     }

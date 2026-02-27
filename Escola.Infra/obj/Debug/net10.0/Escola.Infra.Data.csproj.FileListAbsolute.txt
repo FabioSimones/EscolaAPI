@@ -1,0 +1,17 @@
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\bin\Debug\net10.0\Escola.Infra.Data.deps.json
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\bin\Debug\net10.0\Escola.Infra.Data.runtimeconfig.json
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\bin\Debug\net10.0\Escola.Infra.Data.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\bin\Debug\net10.0\Escola.Infra.Data.pdb
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\bin\Debug\net10.0\Escola.Domain.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\bin\Debug\net10.0\Escola.Domain.pdb
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.AssemblyInfo.cs
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.I.2EA14B61.Up2Date
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\refint\Escola.Infra.Data.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.pdb
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.genruntimeconfig.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\ref\Escola.Infra.Data.dll

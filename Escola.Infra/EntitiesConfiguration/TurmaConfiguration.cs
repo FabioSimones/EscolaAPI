@@ -19,7 +19,7 @@ namespace Escola.Infra.Data.EntitiesConfiguration
 
             builder.HasOne(x => x.Curso)
                 .WithMany(x => x.Turmas)
-                .HasForeignKey(x => x.Curso)
+                .HasForeignKey(x => x.CursoId)
                 .OnDelete(DeleteBehavior.NoAction);
 
         }

@@ -1,0 +1,15 @@
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\bin\Debug\net10.0\Escola.Application.deps.json
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\bin\Debug\net10.0\Escola.Application.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\bin\Debug\net10.0\Escola.Application.pdb
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\bin\Debug\net10.0\Escola.Domain.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\bin\Debug\net10.0\Escola.Domain.pdb
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.csproj.AssemblyReference.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.AssemblyInfoInputs.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.AssemblyInfo.cs
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.csproj.CoreCompileInputs.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.A.94E8A428.Up2Date
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\refint\Escola.Application.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.pdb
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\ref\Escola.Application.dll
