@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="DTOs\Usuario\UsuarioPutDTO.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Escola.Domain\Escola.Domain.csproj" />
   </ItemGroup>
 

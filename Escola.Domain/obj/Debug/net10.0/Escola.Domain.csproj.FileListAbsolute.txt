@@ -9,3 +9,4 @@ C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Domain\obj\
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Domain\obj\Debug\net10.0\refint\Escola.Domain.dll
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Domain\obj\Debug\net10.0\Escola.Domain.pdb
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Domain\obj\Debug\net10.0\ref\Escola.Domain.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Domain\obj\Debug\net10.0\Escola.Domain.sourcelink.json

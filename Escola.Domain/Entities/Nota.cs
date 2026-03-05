@@ -7,7 +7,7 @@
         public decimal ValorNota { get; set; }
         public bool Aprovado { get; set; }
         public bool Excluido { get; set; }
-
+        public DateTime DataNota { get; set; }
         public Matricula Matricula { get; set; }
     }
 }

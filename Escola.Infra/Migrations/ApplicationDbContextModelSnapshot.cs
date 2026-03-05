@@ -94,6 +94,9 @@ namespace Escola.Infra.Data.Migrations
                     b.Property<bool>("Aprovado")
                         .HasColumnType("boolean");
 
+                    b.Property<DateTime>("DataNota")
+                        .HasColumnType("timestamp with time zone");
+
                     b.Property<bool>("Excluido")
                         .HasColumnType("boolean");
 

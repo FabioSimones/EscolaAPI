@@ -15,3 +15,4 @@ C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\D
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.pdb
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.genruntimeconfig.cache
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\ref\Escola.Infra.Data.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra\obj\Debug\net10.0\Escola.Infra.Data.sourcelink.json

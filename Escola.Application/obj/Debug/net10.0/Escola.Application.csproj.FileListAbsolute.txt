@@ -13,3 +13,4 @@ C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\refint\Escola.Application.dll
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.pdb
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\ref\Escola.Application.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Application\obj\Debug\net10.0\Escola.Application.sourcelink.json

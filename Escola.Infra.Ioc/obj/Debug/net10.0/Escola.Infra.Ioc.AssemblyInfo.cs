@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Escola.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec1a2d259e23f47311fe659b93576ca126c41f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d1ca3074f984287499343ccc4525763487a1e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("Escola.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Escola.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

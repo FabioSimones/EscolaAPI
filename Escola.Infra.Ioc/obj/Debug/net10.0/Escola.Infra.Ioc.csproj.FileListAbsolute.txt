@@ -19,3 +19,4 @@ C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra.Ioc\o
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra.Ioc\obj\Debug\net10.0\ref\Escola.Infra.Ioc.dll
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra.Ioc\bin\Debug\net10.0\Escola.Infra.Ioc.runtimeconfig.json
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra.Ioc\obj\Debug\net10.0\Escola.Infra.Ioc.genruntimeconfig.cache
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.Infra.Ioc\obj\Debug\net10.0\Escola.Infra.Ioc.sourcelink.json
