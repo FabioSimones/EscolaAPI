@@ -130,3 +130,6 @@ C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\bin\Deb
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\obj\Debug\net10.0\Escola.API.sourcelink.json
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fsimones\Documents\Estudos CSharp\Projeto2026\Escola\Escola.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

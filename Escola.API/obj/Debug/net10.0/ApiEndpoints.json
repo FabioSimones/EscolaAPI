@@ -1,0 +1,298 @@
+[
+  {
+    "ContainingType": "Escola.API.Controllers.CursoController",
+    "Method": "CreateCurso",
+    "RelativePath": "api/Curso",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cursoPostDTO",
+        "Type": "Escola.Application.DTOs.Curso.CursoPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.CursoController",
+    "Method": "UpdateCurso",
+    "RelativePath": "api/Curso",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cursoPutDTO",
+        "Type": "Escola.Application.DTOs.Curso.CursoPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.CursoController",
+    "Method": "GetAllCursos",
+    "RelativePath": "api/Curso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.CursoController",
+    "Method": "DeleteCurso",
+    "RelativePath": "api/Curso/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.CursoController",
+    "Method": "GetCursoById",
+    "RelativePath": "api/Curso/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.MatriculaController",
+    "Method": "CreateMatricula",
+    "RelativePath": "api/Matricula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "matriculaPostDTO",
+        "Type": "Escola.Application.DTOs.Matricula.MatriculaPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.MatriculaController",
+    "Method": "UpdateMatricula",
+    "RelativePath": "api/Matricula",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "matriculaPutDTO",
+        "Type": "Escola.Application.DTOs.Matricula.MatriculaPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.MatriculaController",
+    "Method": "GetAllMatriculas",
+    "RelativePath": "api/Matricula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.MatriculaController",
+    "Method": "DeleteMatricula",
+    "RelativePath": "api/Matricula/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.MatriculaController",
+    "Method": "GetMatriculaById",
+    "RelativePath": "api/Matricula/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.NotaController",
+    "Method": "CreateNota",
+    "RelativePath": "api/Nota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notaPostDTO",
+        "Type": "Escola.Application.DTOs.Nota.NotaPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.NotaController",
+    "Method": "UpdateNota",
+    "RelativePath": "api/Nota",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notaPutDTO",
+        "Type": "Escola.Application.DTOs.Nota.NotaPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.NotaController",
+    "Method": "GetAllNotas",
+    "RelativePath": "api/Nota",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.NotaController",
+    "Method": "DeleteNota",
+    "RelativePath": "api/Nota/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.NotaController",
+    "Method": "GetNotaById",
+    "RelativePath": "api/Nota/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.TurmaController",
+    "Method": "CreateTurma",
+    "RelativePath": "api/Turma",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turmaPostDTO",
+        "Type": "Escola.Application.DTOs.Turma.TurmaPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.TurmaController",
+    "Method": "UpdateTurma",
+    "RelativePath": "api/Turma",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turmaPutDTO",
+        "Type": "Escola.Application.DTOs.Turma.TurmaPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.TurmaController",
+    "Method": "GetAllTurmas",
+    "RelativePath": "api/Turma",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.TurmaController",
+    "Method": "DeleteTurma",
+    "RelativePath": "api/Turma/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.TurmaController",
+    "Method": "GetTurmaById",
+    "RelativePath": "api/Turma/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

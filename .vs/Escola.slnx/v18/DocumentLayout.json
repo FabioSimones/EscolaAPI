@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Escola.Application\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Escola.Application\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAQwF0AAAAOAAAAAAAAAA==",
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\TurmaService.cs",
+              "RelativeDocumentMoniker": "Escola.Application\\Services\\TurmaService.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\TurmaService.cs",
+              "RelativeToolTip": "Escola.Application\\Services\\TurmaService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:19:51.238Z",
+              "WhenOpened": "2026-03-13T11:21:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Escola.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Escola.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T19:52:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Controllers\\NotaController.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "Escola.API\\Controllers\\NotaController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:47:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatriculaController.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\MatriculaController.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Controllers\\MatriculaController.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\MatriculaController.cs",
+              "RelativeToolTip": "Escola.API\\Controllers\\MatriculaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:41:16.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "Escola.Application\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "Escola.Application\\Interfaces\\IUsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "Escola.API\\Controllers\\TurmaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:19:48.756Z",
+              "WhenOpened": "2026-03-08T13:56:29.803Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "Escola.API\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:56:26.402Z"
             }
           ]
         }

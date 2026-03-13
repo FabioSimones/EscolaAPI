@@ -23,7 +23,7 @@ namespace Escola.Infra.Data.Repositories
 
         public async Task<Matricula> DeleteAsync(int id)
         {
-            var matricula = await _context.Matricula.Where(x => x.Excluido == false && x.Id == id).FirstOrDefaultAsync();
+            var matricula = await _context.Matricula.Include(x => x.Turma).Where(x => x.Excluido == false && x.Id == id).FirstOrDefaultAsync();
             if (matricula == null)
             {
                 return null;
@@ -37,7 +37,7 @@ namespace Escola.Infra.Data.Repositories
 
         public async Task<List<Matricula>> GetAllAsync()
         {
-            return await _context.Matricula.Where(x => x.Excluido == false).ToListAsync();
+            return await _context.Matricula.Include(x => x.Turma).Where(x => x.Excluido == false).ToListAsync();
         }
 
         public async Task<Matricula> GetByIdAsync(int id)
