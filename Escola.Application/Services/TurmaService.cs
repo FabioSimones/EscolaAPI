@@ -1,5 +1,6 @@
 ﻿using Escola.Application.DTOs.Curso;
 using Escola.Application.DTOs.Turma;
+using Escola.Application.Exceptions;
 using Escola.Application.Interfaces;
 using Escola.Domain.Entities;
 using Escola.Domain.Interfaces;
@@ -20,7 +21,7 @@ namespace Escola.Application.Services
             var curso = await _cursoRepository.GetByIdAsync(turmaPostDTO.CursoId);
             if (curso == null)
             {
-                throw new Exception("Curso não encontrado.");
+                throw new NotFoundException("Curso não encontrado.");
             }
 
             var turma = new Turma
@@ -43,7 +44,7 @@ namespace Escola.Application.Services
         {
             var deletedTurma = await _turmaRepository.DeleteAsync(id);
             if (deletedTurma == null)
-                return null;
+                throw new NotFoundException("Turma não encontrada.");
             return new TurmaGetDTO
             {
                 Id = deletedTurma.Id,
@@ -76,7 +77,7 @@ namespace Escola.Application.Services
         {
             var turma = await _turmaRepository.GetByIdAsync(id);
             if (turma == null)
-                return null;
+                throw new NotFoundException("Turma não encontrada.");
             return new TurmaGetDetailDTO
             {
                 Id = turma.Id,
@@ -93,13 +94,21 @@ namespace Escola.Application.Services
 
         public async Task<TurmaGetDTO> UpdateAsync(TurmaPutDTO turmaPutDTO)
         {
-            var turma = new Turma
+            var turma = await _turmaRepository.GetByIdAsync(turmaPutDTO.Id);
+            if (turma == null)
+                throw new NotFoundException("Turma não encontrada.");
+
+            var curso = await _cursoRepository.GetByIdAsync(turmaPutDTO.CursoId);
+            if (curso == null)
             {
-                Id = turmaPutDTO.Id,
-                Nome = turmaPutDTO.Nome,
-                Descricao = turmaPutDTO.Descricao,
-                CursoId = turmaPutDTO.CursoId
-            };
+                throw new NotFoundException("Curso não encontrado.");
+            }
+
+            turma.Id = turmaPutDTO.Id;
+            turma.Nome = turmaPutDTO.Nome;
+            turma.Descricao = turmaPutDTO.Descricao;
+            turma.CursoId = turmaPutDTO.CursoId;
+
             var updatedTurma = await _turmaRepository.UpdateAsync(turma);
             if (updatedTurma == null)
                 return null;

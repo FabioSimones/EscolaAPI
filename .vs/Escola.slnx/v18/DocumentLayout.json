@@ -7,24 +7,40 @@
       "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\services\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\services\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CF2CC-F6A2-005F-8C96-8CD0FB8F4AD9}|Escola.Application\\Escola.Application.csproj|solutionrelative:escola.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\escola\\escola.api\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034D592-E14B-E17F-E7E7-2642532E24A2}|Escola.API\\Escola.API.csproj|solutionrelative:escola.api\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +50,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotaService.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\NotaService.cs",
+              "RelativeDocumentMoniker": "Escola.Application\\Services\\NotaService.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\NotaService.cs",
+              "RelativeToolTip": "Escola.Application\\Services\\NotaService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwF0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:54:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "Escola.Application\\Services\\MatriculaService.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\MatriculaService.cs",
+              "RelativeToolTip": "Escola.Application\\Services\\MatriculaService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAmwIcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:50:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursoService.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\CursoService.cs",
+              "RelativeDocumentMoniker": "Escola.Application\\Services\\CursoService.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\CursoService.cs",
+              "RelativeToolTip": "Escola.Application\\Services\\CursoService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:47:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Escola.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Escola.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:39:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Escola.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Escola.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:39:11.226Z"
             },
             {
               "$type": "Document",
@@ -48,74 +123,58 @@
               "RelativeDocumentMoniker": "Escola.Application\\Services\\TurmaService.cs",
               "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.Application\\Services\\TurmaService.cs",
               "RelativeToolTip": "Escola.Application\\Services\\TurmaService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBEAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwGsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:21:17.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Escola.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Escola.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-08T19:52:51.909Z",
+              "WhenOpened": "2026-03-13T11:37:51.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NotaController.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\NotaController.cs",
-              "RelativeDocumentMoniker": "Escola.API\\Controllers\\NotaController.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\NotaController.cs",
-              "RelativeToolTip": "Escola.API\\Controllers\\NotaController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwDEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T19:47:54.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MatriculaController.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\MatriculaController.cs",
-              "RelativeDocumentMoniker": "Escola.API\\Controllers\\MatriculaController.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\MatriculaController.cs",
-              "RelativeToolTip": "Escola.API\\Controllers\\MatriculaController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwDsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T19:41:16.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TurmaController.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\TurmaController.cs",
               "RelativeDocumentMoniker": "Escola.API\\Controllers\\TurmaController.cs",
               "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\TurmaController.cs",
               "RelativeToolTip": "Escola.API\\Controllers\\TurmaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T13:56:29.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:37:30.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CursoController.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\CursoController.cs",
-              "RelativeDocumentMoniker": "Escola.API\\Controllers\\CursoController.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Controllers\\CursoController.cs",
-              "RelativeToolTip": "Escola.API\\Controllers\\CursoController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswDgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Program.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Program.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Program.cs",
+              "RelativeToolTip": "Escola.API\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T13:56:26.402Z"
+              "WhenOpened": "2026-03-13T11:32:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Errors\\ApiException.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Errors\\ApiException.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Errors\\ApiException.cs",
+              "RelativeToolTip": "Escola.API\\Errors\\ApiException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:31:45.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Escola.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\Escola\\Escola.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Escola.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:25:25.832Z"
             }
           ]
         }
