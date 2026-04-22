@@ -294,5 +294,47 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.UsuarioController",
+    "Method": "CreateUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioPostDTO",
+        "Type": "Escola.Application.DTOs.Usuario.UsuarioPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.UsuarioController",
+    "Method": "GetTokenUsuario",
+    "RelativePath": "api/Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLogin",
+        "Type": "Escola.API.Models.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escola.API.Controllers.UsuarioController",
+    "Method": "Teste",
+    "RelativePath": "api/Usuario/rota-de-teste",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

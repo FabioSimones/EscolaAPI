@@ -20,6 +20,8 @@ namespace Escola.Application.Services
             byte[] passwordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(usuarioPostDTO.Senha));
             byte[] passwordSalt = hmac.Key;
 
+            var existeUsuario = await _usuarioRepository.ExisteUsuarioAsync();
+
             var usuario = new Usuario
             {
                 Nome = usuarioPostDTO.Nome,
@@ -27,14 +29,15 @@ namespace Escola.Application.Services
                 Excluido = false,
                 PasswordHash = passwordHash,
                 PasswordSalt = passwordSalt,
-                Perfil = "Aluno"
+                Perfil = existeUsuario ? "Aluno" : "Administrador"
             };
             var createdUsuario = await _usuarioRepository.AddAsync(usuario);
             return new UsuarioGetDTO
             {
                 Id = createdUsuario.Id,
                 Nome = createdUsuario.Nome,
-                Email = createdUsuario.Email
+                Email = createdUsuario.Email,
+                Perfil = createdUsuario.Perfil
             };
         }
 
@@ -47,8 +50,14 @@ namespace Escola.Application.Services
             {
                 Id = deletedUsuario.Id,
                 Nome = deletedUsuario.Nome,
-                Email = deletedUsuario.Email
+                Email = deletedUsuario.Email,
+                Perfil = deletedUsuario.Perfil
             };
+        }
+
+        public Task<bool> ExisteUsuarioAsync()
+        {
+            return _usuarioRepository.ExisteUsuarioAsync();
         }
 
         public async Task<List<UsuarioGetDTO>> GetAllAsync()
@@ -59,7 +68,8 @@ namespace Escola.Application.Services
             {
                 Id = usuario.Id,
                 Nome = usuario.Nome,
-                Email = usuario.Email
+                Email = usuario.Email,
+                Perfil = usuario.Perfil
             }));
 
             return usuarioGetDTOs;
@@ -74,7 +84,8 @@ namespace Escola.Application.Services
             {
                 Id = usuario.Id,
                 Nome = usuario.Nome,
-                Email = usuario.Email
+                Email = usuario.Email,
+                Perfil = usuario.Perfil
             };
         }
 
@@ -90,7 +101,8 @@ namespace Escola.Application.Services
             {
                 Id = updatedUsuario.Id,
                 Nome = updatedUsuario.Nome,
-                Email = updatedUsuario.Email
+                Email = updatedUsuario.Email,
+                Perfil = updatedUsuario.Perfil
             };
         }
     }
